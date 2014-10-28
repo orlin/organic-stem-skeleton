@@ -44,7 +44,7 @@ Cell with predefined dna having the following abilities:
   * `context/pages/**/*.jade`
   * `upgrades` folder
 
-* Modify `dna` folder contents accordingly to your needs.
-* Modify `package.json` contents accordingly to your needs.
+* Modify `dna` folder contents according to your needs.
+* Modify `package.json` contents according to your needs.
 
 ### [Detailed documentation](https://github.com/outbounder/organic-stem-skeleton/wiki)
